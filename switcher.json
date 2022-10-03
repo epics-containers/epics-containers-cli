@@ -2,5 +2,9 @@
   {
     "name": "main",
     "url": "https://epics-containers.github.io/epics-containers-cli/main/"
+  },
+  {
+    "name": "0.1",
+    "url": "https://epics-containers.github.io/epics-containers-cli/0.1/"
   }
 ]
